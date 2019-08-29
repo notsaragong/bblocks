@@ -56,7 +56,7 @@ Calling `bblocks` on a dataframe of N observations will return an N-length colum
 
 ## Example
 
-The following code performs blocking by three variables in the built-in dataset `mtcars`. Within the variable `carb`, `carb == 1` and `carb == 2` are grouped together, as are `carb == 3`, `carb == 4`, and `carb ==5`.
+The following code performs blocking by three variables in the built-in dataset `mtcars`. Within the variable `carb`, `carb == 1` and `carb == 2` are grouped together, as are `carb == 3`, `carb == 4`, and `carb == 5`.
 
 ```{r example}
 library(bblocks)
