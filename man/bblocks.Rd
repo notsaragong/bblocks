@@ -10,7 +10,7 @@ bblocks
 }
 
 \usage{
-bblocks(data, min_block_size, blockby = list(...))
+bblocks(data, min_block_size, blockby)
 }
 
 \arguments{
