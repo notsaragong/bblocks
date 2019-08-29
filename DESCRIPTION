@@ -4,7 +4,7 @@ Title: Builds Blocks for Better Randomization
 Version: 1.0.0
 Authors@R: person("Sara", "Gong", email = "saragong@usc.edu",
                   role = c("aut", "cre"))
-Description: bblocks is designed to prepare data for blocked, or stratified, randomization. Given a minimum block size and a set of covariates, bblocks efficiently partitions the covariate space into subgroups with reduced heterogeneity.
+Description: Prepares data for blocked, or stratified, randomization. Given a minimum block size and a set of covariates, bblocks efficiently partitions the covariate space into subgroups with reduced heterogeneity.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

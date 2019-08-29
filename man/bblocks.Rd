@@ -6,7 +6,7 @@ bblocks
 }
 
 \description{
-\code{bblocks} is designed to prepare data for blocked, or stratified, randomization. Given a minimum block size and a set of covariates, \code{bblocks} efficiently partitions the covariate space into subgroups with reduced heterogeneity.
+Prepares data for blocked, or stratified, randomization. Given a minimum block size and a set of covariates, \code{bblocks} efficiently partitions the covariate space into subgroups with reduced heterogeneity.
 }
 
 \usage{
